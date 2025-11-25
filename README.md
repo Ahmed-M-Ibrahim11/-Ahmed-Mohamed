@@ -27,13 +27,12 @@
   <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
-- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-
+🏢 Currently working as a Front-End & .NET Web Developer
+🌱 Improving my skills with Full-Stack projects and modern technologies
+💬 I enjoy talking about JavaScript, Angular, ASP.NET, and UI/UX
+📖 Check out my projects and work experience on my GitHub and blog
+📫 Feel free to ask me anything via GitHub Issues
+💻 Connect with me on LinkedIn
 <br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
