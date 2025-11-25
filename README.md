@@ -1,31 +1,36 @@
 # -Ahmed-Mohamed
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
-<h3 align="left">I do SW/SR/Platform/DevOps Engineering things</h3>
+<h1 align="left" id="ahmed-title">:wave: Hello there! I'm Ahmed Mohamed Ibrahim</h1>
+<h3 align="left">Front-End Developer | .NET Developer | UI/UX Oriented | Full-Stack Web Engineer</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  <a href="https://github.com/Ahmed-Mohamed">
+    <img src="https://komarev.com/ghpvc/?username=Ahmed-Mohamed" alt="page views" />
   </a>
-  <a href="https://jacobcolvin.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fjacobcolvin.com">
+
+  <a href="https://www.linkedin.com/in/ahmed-mohamed-095337347/">
+    <img alt="LinkedIn" src="www.linkedin.com/in/ahmed-mohamed-095337347" />
   </a>
-  <a href="https://stackoverflow.com/users/4868262">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+
+  <a href="https://github.com/Ahmed-Mohamed?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Ahmed-Mohamed?style=flat&logo=github" />
   </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?style=flat&logo=github">
-  </a>
+
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg" />
   </a>
 </p>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#ahmed-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="stats" align="right" />
 </a>
+
+- 💼 **Currently working as a Front-End & .NET Web Developer**
+- 🌱 **Improving my skills with Full-Stack projects and modern technologies**
+- 💬 **I enjoy talking about JavaScript, Angular, ASP.NET, and UI/UX**
+- 📖 **Check out my projects and work experience on my GitHub and blog**
+- 📫 **Feel free to ask me anything via GitHub Issues**
+- 💻 **Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-mohamed-095337347/)**
+
 
 🏢 Currently working as a Front-End & .NET Web Developer
 🌱 Improving my skills with Full-Stack projects and modern technologies
